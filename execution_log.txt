@@ -1,0 +1,167 @@
+[2026-06-19T22:55:32.085087] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-19T22:55:33.461063] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv
+[2026-06-19T22:55:41.975634] ACTION: CLAIM_PROCESSED | DETAILS: claim=1, user=user_002, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T22:55:46.393761] ACTION: CLAIM_PROCESSED | DETAILS: claim=2, user=user_005, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T22:55:53.093551] ACTION: CLAIM_PROCESSED | DETAILS: claim=3, user=user_004, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T22:56:00.598857] ACTION: CLAIM_PROCESSED | DETAILS: claim=4, user=user_007, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T22:56:06.695348] ACTION: CLAIM_PROCESSED | DETAILS: claim=5, user=user_008, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T22:56:15.956109] ACTION: CLAIM_PROCESSED | DETAILS: claim=6, user=user_003, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T22:56:27.909446] ACTION: CLAIM_PROCESSED | DETAILS: claim=7, user=user_011, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T22:56:37.956863] ACTION: CLAIM_PROCESSED | DETAILS: claim=8, user=user_004, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T22:56:53.159166] ACTION: CLAIM_PROCESSED | DETAILS: claim=9, user=user_018, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T22:57:12.192602] ACTION: CLAIM_PROCESSED | DETAILS: claim=10, user=user_014, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T22:57:19.939342] ACTION: CLAIM_PROCESSED | DETAILS: claim=11, user=user_017, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T22:57:39.701775] ACTION: CLAIM_PROCESSED | DETAILS: claim=12, user=user_018, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T22:58:34.857906] ACTION: CLAIM_PROCESSED | DETAILS: claim=13, user=user_019, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T22:58:46.741986] ACTION: CLAIM_PROCESSED | DETAILS: claim=14, user=user_020, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T22:59:27.422066] ACTION: CLAIM_PROCESSED | DETAILS: claim=15, user=user_025, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:00:16.025293] ACTION: CLAIM_PROCESSED | DETAILS: claim=16, user=user_026, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:00:26.002962] ACTION: CLAIM_PROCESSED | DETAILS: claim=17, user=user_027, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:00:30.416617] ACTION: CLAIM_PROCESSED | DETAILS: claim=18, user=user_028, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:00:42.159888] ACTION: CLAIM_PROCESSED | DETAILS: claim=19, user=user_029, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:00:49.567505] ACTION: CLAIM_PROCESSED | DETAILS: claim=20, user=user_030, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:01:02.922880] ACTION: CLAIM_PROCESSED | DETAILS: claim=21, user=user_031, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:01:25.324571] ACTION: CLAIM_PROCESSED | DETAILS: claim=22, user=user_032, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:01:43.120148] ACTION: CLAIM_PROCESSED | DETAILS: claim=23, user=user_034, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:01:54.059122] ACTION: CLAIM_PROCESSED | DETAILS: claim=24, user=user_036, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:02:07.160270] ACTION: CLAIM_PROCESSED | DETAILS: claim=25, user=user_037, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:02:38.854539] ACTION: CLAIM_PROCESSED | DETAILS: claim=26, user=user_038, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:02:48.956954] ACTION: CLAIM_PROCESSED | DETAILS: claim=27, user=user_039, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:02:59.794855] ACTION: CLAIM_PROCESSED | DETAILS: claim=28, user=user_040, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:03:23.693624] ACTION: CLAIM_PROCESSED | DETAILS: claim=29, user=user_041, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:03:53.399813] ACTION: CLAIM_PROCESSED | DETAILS: claim=30, user=user_042, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:03:58.475679] ACTION: CLAIM_PROCESSED | DETAILS: claim=31, user=user_043, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:04:19.319676] ACTION: CLAIM_PROCESSED | DETAILS: claim=32, user=user_044, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:04:33.897674] ACTION: CLAIM_PROCESSED | DETAILS: claim=33, user=user_045, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:04:51.823832] ACTION: CLAIM_PROCESSED | DETAILS: claim=34, user=user_047, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:05:09.516703] ACTION: CLAIM_PROCESSED | DETAILS: claim=35, user=user_046, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:05:22.661492] ACTION: CLAIM_PROCESSED | DETAILS: claim=36, user=user_034, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:05:29.152333] ACTION: CLAIM_PROCESSED | DETAILS: claim=37, user=user_042, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:05:41.386361] ACTION: CLAIM_PROCESSED | DETAILS: claim=38, user=user_022, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:05:50.168686] ACTION: CLAIM_PROCESSED | DETAILS: claim=39, user=user_016, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:05:54.984941] ACTION: CLAIM_PROCESSED | DETAILS: claim=40, user=user_033, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:06:06.104583] ACTION: CLAIM_PROCESSED | DETAILS: claim=41, user=user_045, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:06:12.054876] ACTION: CLAIM_PROCESSED | DETAILS: claim=42, user=user_041, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:06:25.688168] ACTION: CLAIM_PROCESSED | DETAILS: claim=43, user=user_040, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:06:31.892599] ACTION: CLAIM_PROCESSED | DETAILS: claim=44, user=user_045, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:06:31.943929] ACTION: PROCESSING_COMPLETE | DETAILS: Wrote 44 results to C:\Users\Gnana\OneDrive\Desktop\New folder (2)\output.csv
+[2026-06-19T23:06:59.063126] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-19T23:07:00.816613] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv
+[2026-06-19T23:12:03.965713] ACTION: CLAIM_PROCESSED | DETAILS: claim=1, user=user_002, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:17:03.345562] ACTION: CLAIM_PROCESSED | DETAILS: claim=2, user=user_005, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:22:03.547718] ACTION: CLAIM_PROCESSED | DETAILS: claim=3, user=user_004, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:27:01.816043] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-19T23:27:03.041281] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv
+[2026-06-19T23:27:03.296075] ACTION: CLAIM_PROCESSED | DETAILS: claim=4, user=user_007, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:27:10.010942] ACTION: CLAIM_PROCESSED | DETAILS: claim=1, user=user_002, object=car, status=supported, issue=scratch, part=front_bumper
+[2026-06-19T23:27:13.767659] ACTION: CLAIM_PROCESSED | DETAILS: claim=2, user=user_005, object=car, status=supported, issue=dent, part=door
+[2026-06-19T23:27:20.294586] ACTION: CLAIM_PROCESSED | DETAILS: claim=3, user=user_004, object=car, status=supported, issue=crack, part=windshield
+[2026-06-19T23:27:25.838522] ACTION: CLAIM_PROCESSED | DETAILS: claim=4, user=user_007, object=car, status=not_enough_information, issue=unknown, part=side_mirror
+[2026-06-19T23:27:33.874496] ACTION: CLAIM_PROCESSED | DETAILS: claim=5, user=user_008, object=car, status=not_enough_information, issue=dent, part=hood
+[2026-06-19T23:27:38.060226] ACTION: CLAIM_PROCESSED | DETAILS: claim=6, user=user_003, object=car, status=not_enough_information, issue=dent, part=rear_bumper
+[2026-06-19T23:27:45.779495] ACTION: CLAIM_PROCESSED | DETAILS: claim=7, user=user_011, object=car, status=supported, issue=broken_part, part=headlight
+[2026-06-19T23:27:49.761036] ACTION: CLAIM_PROCESSED | DETAILS: claim=8, user=user_004, object=car, status=supported, issue=dent, part=door
+[2026-06-19T23:27:56.803551] ACTION: CLAIM_PROCESSED | DETAILS: claim=9, user=user_018, object=car, status=not_enough_information, issue=unknown, part=taillight
+[2026-06-19T23:28:03.288144] ACTION: CLAIM_PROCESSED | DETAILS: claim=10, user=user_014, object=car, status=supported, issue=crack, part=windshield
+[2026-06-19T23:28:07.879352] ACTION: CLAIM_PROCESSED | DETAILS: claim=11, user=user_017, object=laptop, status=supported, issue=crack, part=screen
+[2026-06-19T23:28:14.634249] ACTION: CLAIM_PROCESSED | DETAILS: claim=12, user=user_018, object=laptop, status=contradicted, issue=water_damage, part=keyboard
+[2026-06-19T23:28:22.372455] ACTION: CLAIM_PROCESSED | DETAILS: claim=13, user=user_019, object=laptop, status=supported, issue=broken_part, part=hinge
+[2026-06-19T23:28:26.334293] ACTION: CLAIM_PROCESSED | DETAILS: claim=14, user=user_020, object=laptop, status=not_enough_information, issue=unknown, part=trackpad
+[2026-06-19T23:28:33.932492] ACTION: CLAIM_PROCESSED | DETAILS: claim=15, user=user_025, object=laptop, status=supported, issue=broken_part, part=keyboard
+[2026-06-19T23:28:38.206556] ACTION: CLAIM_PROCESSED | DETAILS: claim=16, user=user_026, object=laptop, status=contradicted, issue=crack, part=body
+[2026-06-19T23:28:45.447722] ACTION: CLAIM_PROCESSED | DETAILS: claim=17, user=user_027, object=laptop, status=supported, issue=stain, part=screen
+[2026-06-19T23:28:49.336958] ACTION: CLAIM_PROCESSED | DETAILS: claim=18, user=user_028, object=laptop, status=supported, issue=broken_part, part=hinge
+[2026-06-19T23:28:57.220074] ACTION: CLAIM_PROCESSED | DETAILS: claim=19, user=user_029, object=package, status=supported, issue=crushed_packaging, part=package_corner
+[2026-06-19T23:29:04.812203] ACTION: CLAIM_PROCESSED | DETAILS: claim=20, user=user_030, object=package, status=contradicted, issue=torn_packaging, part=seal
+[2026-06-19T23:29:10.602411] ACTION: CLAIM_PROCESSED | DETAILS: claim=21, user=user_031, object=package, status=supported, issue=water_damage, part=label
+[2026-06-19T23:32:03.880403] ACTION: CLAIM_PROCESSED | DETAILS: claim=5, user=user_008, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:34:03.602639] ACTION: CLAIM_PROCESSED | DETAILS: claim=22, user=user_032, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:37:04.010462] ACTION: CLAIM_PROCESSED | DETAILS: claim=6, user=user_003, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:37:09.398329] ACTION: CLAIM_PROCESSED | DETAILS: claim=23, user=user_034, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:37:28.477420] ACTION: CLAIM_PROCESSED | DETAILS: claim=7, user=user_011, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:37:39.197281] ACTION: CLAIM_PROCESSED | DETAILS: claim=24, user=user_036, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:37:58.393628] ACTION: CLAIM_PROCESSED | DETAILS: claim=8, user=user_004, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:38:09.389382] ACTION: CLAIM_PROCESSED | DETAILS: claim=25, user=user_037, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:38:28.366055] ACTION: CLAIM_PROCESSED | DETAILS: claim=9, user=user_018, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:38:39.534953] ACTION: CLAIM_PROCESSED | DETAILS: claim=26, user=user_038, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:38:58.441857] ACTION: CLAIM_PROCESSED | DETAILS: claim=10, user=user_014, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:39:09.225002] ACTION: CLAIM_PROCESSED | DETAILS: claim=27, user=user_039, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:39:28.334149] ACTION: CLAIM_PROCESSED | DETAILS: claim=11, user=user_017, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:39:39.266718] ACTION: CLAIM_PROCESSED | DETAILS: claim=28, user=user_040, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:39:58.453887] ACTION: CLAIM_PROCESSED | DETAILS: claim=12, user=user_018, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:40:09.371296] ACTION: CLAIM_PROCESSED | DETAILS: claim=29, user=user_041, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:40:28.634791] ACTION: CLAIM_PROCESSED | DETAILS: claim=13, user=user_019, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-19T23:40:39.574997] ACTION: CLAIM_PROCESSED | DETAILS: claim=30, user=user_042, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T01:16:52.950054] ACTION: CLAIM_PROCESSED | DETAILS: claim=14, user=user_020, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T05:17:01.027079] ACTION: CLAIM_PROCESSED | DETAILS: claim=31, user=user_043, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T10:41:16.883586] ACTION: CLAIM_PROCESSED | DETAILS: claim=15, user=user_025, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T10:42:22.387197] ACTION: CLAIM_PROCESSED | DETAILS: claim=16, user=user_026, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T10:42:52.607391] ACTION: CLAIM_PROCESSED | DETAILS: claim=17, user=user_027, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T10:43:22.383480] ACTION: CLAIM_PROCESSED | DETAILS: claim=18, user=user_028, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T10:43:23.386081] ACTION: CLAIM_PROCESSED | DETAILS: claim=32, user=user_044, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T10:43:47.819822] ACTION: CLAIM_PROCESSED | DETAILS: claim=33, user=user_045, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T10:43:52.838602] ACTION: CLAIM_PROCESSED | DETAILS: claim=19, user=user_029, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T10:44:14.482448] ACTION: CLAIM_PROCESSED | DETAILS: claim=34, user=user_047, object=car, status=supported, issue=dent, part=door
+[2026-06-20T10:44:27.781460] ACTION: CLAIM_PROCESSED | DETAILS: claim=35, user=user_046, object=car, status=supported, issue=broken_part, part=side_mirror
+[2026-06-20T10:49:03.702962] ACTION: CLAIM_PROCESSED | DETAILS: claim=20, user=user_030, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T10:49:03.954744] ACTION: CLAIM_PROCESSED | DETAILS: claim=36, user=user_034, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T10:54:04.020640] ACTION: CLAIM_PROCESSED | DETAILS: claim=21, user=user_031, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T10:54:04.138257] ACTION: CLAIM_PROCESSED | DETAILS: claim=37, user=user_042, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T10:55:16.587793] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-20T10:55:18.776765] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv
+[2026-06-20T10:56:57.583086] ACTION: CLAIM_PROCESSED | DETAILS: claim=1, user=user_002, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T10:57:17.603369] ACTION: CLAIM_PROCESSED | DETAILS: claim=2, user=user_005, object=car, status=supported, issue=dent, part=door
+[2026-06-20T10:57:48.493793] ACTION: CLAIM_PROCESSED | DETAILS: claim=3, user=user_004, object=car, status=supported, issue=crack, part=windshield
+[2026-06-20T10:58:01.006375] ACTION: CLAIM_PROCESSED | DETAILS: claim=4, user=user_007, object=car, status=contradicted, issue=none, part=side_mirror
+[2026-06-20T10:58:22.102880] ACTION: CLAIM_PROCESSED | DETAILS: claim=5, user=user_008, object=car, status=not_enough_information, issue=dent, part=hood
+[2026-06-20T10:59:03.516944] ACTION: CLAIM_PROCESSED | DETAILS: claim=38, user=user_022, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T10:59:03.735920] ACTION: CLAIM_PROCESSED | DETAILS: claim=22, user=user_032, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T10:59:33.446883] ACTION: CLAIM_PROCESSED | DETAILS: claim=6, user=user_003, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T10:59:44.960323] ACTION: CLAIM_PROCESSED | DETAILS: claim=7, user=user_011, object=car, status=supported, issue=broken_part, part=headlight
+[2026-06-20T11:04:04.372830] ACTION: CLAIM_PROCESSED | DETAILS: claim=23, user=user_034, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T11:04:04.437592] ACTION: CLAIM_PROCESSED | DETAILS: claim=39, user=user_016, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T11:05:05.063520] ACTION: CLAIM_PROCESSED | DETAILS: claim=8, user=user_004, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T11:09:04.043395] ACTION: CLAIM_PROCESSED | DETAILS: claim=24, user=user_036, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T11:09:04.046707] ACTION: CLAIM_PROCESSED | DETAILS: claim=40, user=user_033, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T11:11:05.323661] ACTION: CLAIM_PROCESSED | DETAILS: claim=9, user=user_018, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T11:17:03.945816] ACTION: CLAIM_PROCESSED | DETAILS: claim=41, user=user_045, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T11:18:05.469903] ACTION: CLAIM_PROCESSED | DETAILS: claim=10, user=user_014, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T11:20:03.587357] ACTION: CLAIM_PROCESSED | DETAILS: claim=25, user=user_037, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T11:21:15.489703] ACTION: CLAIM_PROCESSED | DETAILS: claim=42, user=user_041, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T11:25:04.836454] ACTION: CLAIM_PROCESSED | DETAILS: claim=11, user=user_017, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T11:28:12.052430] ACTION: CLAIM_PROCESSED | DETAILS: claim=12, user=user_018, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T11:28:59.938718] ACTION: CLAIM_PROCESSED | DETAILS: claim=13, user=user_019, object=laptop, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T11:31:04.425113] ACTION: CLAIM_PROCESSED | DETAILS: claim=26, user=user_038, object=package, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T11:34:09.009706] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-20T11:34:11.094050] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv
+[2026-06-20T11:45:54.367237] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-20T11:45:56.389650] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv
+[2026-06-20T11:52:04.485097] ACTION: CLAIM_PROCESSED | DETAILS: claim=1, user=user_002, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T11:56:16.345906] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-20T11:56:19.464113] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv
+[2026-06-20T12:02:04.812926] ACTION: CLAIM_PROCESSED | DETAILS: claim=1, user=user_002, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T12:03:58.832626] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-20T12:04:00.706576] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv
+[2026-06-20T12:06:56.587365] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-20T12:06:58.530357] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv
+[2026-06-20T12:11:21.108658] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-20T12:11:23.192353] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv
+[2026-06-20T12:14:03.758230] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-20T12:14:05.242154] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv
+[2026-06-20T12:17:55.539180] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-20T12:17:57.145577] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv
+[2026-06-20T12:20:40.662870] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-20T12:20:42.140763] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv
+[2026-06-20T12:23:43.474725] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-20T12:23:44.748884] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv
+[2026-06-20T12:29:44.578705] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-20T12:29:46.106145] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv
+[2026-06-20T12:33:02.562817] ACTION: CLAIM_PROCESSED | DETAILS: claim=1, user=user_002, object=car, status=not_enough_information, issue=unknown, part=unknown
+[2026-06-20T12:33:22.014437] ACTION: CLAIM_PROCESSED | DETAILS: claim=2, user=user_005, object=car, status=supported, issue=dent, part=door
+[2026-06-20T12:33:37.275124] ACTION: CLAIM_PROCESSED | DETAILS: claim=3, user=user_004, object=car, status=supported, issue=crack, part=windshield
+[2026-06-20T12:33:47.415270] ACTION: CLAIM_PROCESSED | DETAILS: claim=4, user=user_007, object=car, status=contradicted, issue=none, part=side_mirror
+[2026-06-20T12:34:01.972924] ACTION: CLAIM_PROCESSED | DETAILS: claim=5, user=user_008, object=car, status=not_enough_information, issue=dent, part=hood
+[2026-06-20T12:40:46.215429] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-20T12:40:47.419245] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv
+[2026-06-20T12:49:13.754899] ACTION: SESSION_START | DETAILS: Main processing run started
+[2026-06-20T12:49:15.604427] ACTION: START_PROCESSING | DETAILS: Processing 44 claims from C:\Users\Gnana\OneDrive\Desktop\New folder (2)\dataset\claims.csv

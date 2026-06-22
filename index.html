@@ -452,7 +452,10 @@
                     body: JSON.stringify(payload)
                 });
 
-                if (!response.ok) throw new Error('API Error');
+                if (!response.ok) {
+                    const errText = await response.text();
+                    throw new Error(`HTTP ${response.status}: ${errText}`);
+                }
 
                 const data = await response.json();
                 
@@ -469,7 +472,7 @@
                 document.getElementById('results-panel').style.display = 'block';
 
             } catch (error) {
-                alert('An error occurred while processing the claim. Please check the logs.');
+                alert('ERROR DETAILS: ' + error.message);
                 console.error(error);
             } finally {
                 btnText.style.display = 'block';
